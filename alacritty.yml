@@ -1,0 +1,51 @@
+TERM: xterm-256color
+window:
+  opacity: 0.87
+  title: alacritty
+  class:
+   instance: alacritty
+   general: alacritty
+
+font:
+  size: 12
+  normal:
+    family: Terminus (TTF)
+    style: Regular
+
+  bold:
+    family: Terminus (TTF)
+    style: Bold
+
+  italic:
+    family: Terminus (TTF)
+    style: Italic
+
+  bold_italic:
+    family: Terminus (TTF)
+    style: Bold Italic
+
+colors:
+  
+  primary:
+    background: '#301934'
+
+      
+  normal:
+    black: '#282828'
+    red: '#cc241d'
+    green: '#98971a'
+    yellow: '#d79921'
+    blue: '#458588'
+    magenta: '#b16286'
+    cyan: '#689d6c'
+    white: '#d4be98'
+    
+  bright:
+     black: '#1d2021'
+     red: '#fb4934'
+     green: '#b8bb26'
+     yellow: '#fabd2f'
+     blue: '#83a598'
+     magenta: '#d3869b'
+     cyan: '#8ec07c'
+     white: '#a89984'
